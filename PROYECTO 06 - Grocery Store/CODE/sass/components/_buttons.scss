@@ -1,0 +1,7 @@
+.btn{
+    @include button();
+}
+.btn:hover{
+    color:$color-pink;
+    background-color: $color-gray-2;
+}

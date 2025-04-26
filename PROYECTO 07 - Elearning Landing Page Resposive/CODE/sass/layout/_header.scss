@@ -1,0 +1,8 @@
+header.header_principal{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 38px;
+    ul{
+        @include reset-list();
+    };
+}

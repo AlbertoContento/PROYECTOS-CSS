@@ -1,0 +1,171 @@
+/*Importamos letra poppin de google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;400&display=swap');
+
+div.page {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-image: url(../img/woman.jpg);
+    background-position: top right;
+    background-size: 750px;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+}
+/*Con esto quitamos el figcaption que no queremos que se vea*/
+header figcaption{
+    display: none;
+}
+header figure {
+    margin: 0;
+}
+header figure img {
+    width: 171px;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 56px;
+
+}
+
+header nav ul a{
+    font-family: 'poppins', sans-serif;
+    text-decoration: none;
+    color: #424241
+}
+
+h1 {
+    font-size: 90px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: lighter;
+    margin-bottom: 0;
+    margin-top: 35px;
+    line-height:100%;
+}
+
+.hero_content {
+    max-width: 50%;
+    margin-bottom: 40px;
+}
+
+.hero_content span {
+    color: #7EDAD2;
+}
+
+.hero_content p {
+    max-width: 78%;
+    font-family: 'poppins', sans-serif;
+    color: #909090;
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.hero_content a {
+    text-decoration: none;
+    background-color: #7EDAD2;
+    padding: 8px 8px;
+    color: white;
+    font-family: 'poppins', sans-serif;
+    font-size: 10px;
+}
+
+div.hero_number {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas: 
+        'div1 div2 div3'
+        'p1 p2 p3';
+    max-width: 35%;
+}
+
+.div1 {
+    grid-area: div1;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+.div2 {
+    grid-area: div2;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+.div3 {
+    grid-area: div3;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+.p1 {
+    grid-area: p1;
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    color: #909090;
+    text-align: center;
+    font-size: 12px;
+}
+.p2 {
+    grid-area: p2;
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    color: #909090;
+    text-align: center;
+    font-size: 12px;
+}
+
+.p3 {
+    grid-area: p3;
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    color: #909090;
+    text-align: center;
+    font-size: 12px;
+}
+
+section.categories {
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+
+section.categories article {
+    background-color: white;
+    padding: 20px;
+}
+
+section.categories img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 8px;
+}
+
+section.categories h3 {
+    font-family: 'poppins', sans-serif;
+    color:#424241;
+    font-size: 15px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+section.categories p {
+    color: #909090;
+    margin: 0px;
+    margin-top: 7px;
+}
+

@@ -1,0 +1,27 @@
+//Con esto nos aseguramos que el container va a tener espacios de seguridad izq y der
+header div.container{
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include breakpoint(desktop) {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+div div.container{
+    padding-left: 16px;
+    padding-right: 16px;
+    @include breakpoint(desktop) {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+footer div.container {
+    background-color: $blue-dark;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

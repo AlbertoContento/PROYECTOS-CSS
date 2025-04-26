@@ -1,0 +1,11 @@
+body {
+    @include breakpoint(tablet) {
+        background-image: url("../../img/hero-img-tablet.png");
+        background-repeat: no-repeat;
+        background-position: top right;
+        @include breakpoint(desktop) {
+            background-size: 500px;
+            background-position: 700px -90px;
+        }
+    }
+}

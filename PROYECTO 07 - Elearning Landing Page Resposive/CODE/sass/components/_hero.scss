@@ -1,0 +1,111 @@
+.hero {
+    margin-bottom: 66px;
+    &__tittle {
+        font-size: 40px;
+        color: $blue-dark;
+        font-weight: 700;
+        line-height: 51px;
+        margin-bottom: 26px;
+        @include breakpoint(desktop) {
+            max-width: 90%;
+        }
+    }
+
+    &__subtittle {
+        font-size: 16px;
+        color: $gray;
+        font-weight: 500;
+        line-height: 28px;
+        margin-bottom: 24px;
+    }
+
+    &__buttons {
+        margin-bottom: 46px;
+    }
+
+    &__img {
+        text-align: center;
+        width: 80%;
+        margin-left: 10%;
+        position: relative;
+        @include breakpoint(tablet) {
+            width: 100%;
+            margin: 0;
+        }
+    }
+
+    &__number {
+        display: inline-block;
+        background-color: $white;
+        border-radius: 10px;
+        padding: 16px;
+        text-align: left;
+        span {
+            display: block;
+        }
+
+        &-title {
+            font-size: 14px;
+            font-weight: 500;
+            color:$gray;
+            line-height: 28px;
+        }
+
+        &-number {
+            font-size: 32px;
+            font-weight: 700;
+            color: $blue-dark;
+        }
+        
+        &-1 {
+            padding: 16px 20px;
+            position: absolute;
+            right: 0px;
+            top: 0px;
+            box-shadow: 20px 20px 100px rgb(210, 194, 194);
+            @include breakpoint(desktop) {
+                right: -33px;
+                top: 64px;
+            }
+        }
+
+        &-2 {
+            padding: 16px 45px 16px 20px;
+            position: absolute;
+            left: 0px;
+            bottom: 0px;
+            box-shadow: 20px 20px 100px rgb(210, 194, 194);
+            @include breakpoint(tablet) {
+                left: 0;
+                bottom: -30px;
+            }
+            @include breakpoint(desktop) {
+                left: 110px;
+                bottom: -73px;
+            }
+        }
+    }
+
+    &__img-mobile{
+        @include breakpoint(tablet) {
+            display: none;
+        }
+    }
+
+    .container {
+        @include breakpoint(tablet) {
+            display: flex;
+            padding-bottom: 50px;
+        }
+        @include breakpoint(desktop) {
+            padding-bottom: 200px;
+        }
+    }
+
+    &__content{
+        @include breakpoint(tablet) {
+            margin-top: 50px;
+        }
+    }
+
+}

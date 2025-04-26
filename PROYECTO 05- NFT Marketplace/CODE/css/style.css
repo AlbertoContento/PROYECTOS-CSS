@@ -1,0 +1,270 @@
+/*Importamos las letras belgrano y poppins*/
+@import url("https://fonts.googleapis.com/css2?family=Belgrano&family=Poppins:wght@100;400&display=swap");
+/*le quitamos el margin y padding a todos los elementos y le ponemos un box-sizing para que no se pase de la caja cuando le pongamos bordes etc*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+body::before {
+  content: "";
+  width: 45%;
+  background-color: #2E2F38;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+
+div.container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+header.header {
+  padding-top: 15px;
+  padding-bottom: 25px;
+  display: flex;
+  align-items: center;
+}
+header.header a {
+  text-decoration: none;
+  font-size: 12px;
+}
+header.header a:hover {
+  text-decoration: underline;
+}
+
+nav.nav_principal ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  padding-left: 100px;
+}
+nav.nav_principal ul li a {
+  color: #2E2F38;
+}
+
+header.header aside.login {
+  margin-left: auto;
+}
+header.header aside.login ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+header.header aside.login ul li a {
+  color: #ffffff;
+}
+header.header aside.login ul a.button {
+  display: inline-block;
+  background-color: #FA504D;
+  color: #ffffff;
+  padding: 7px 25px;
+  font-size: 12px;
+}
+header.header aside.login ul a.button:hover {
+  text-decoration: none;
+  background-color: #c4b6b6;
+  color: #FA504D;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 55% 45%;
+}
+
+.hero {
+  grid-column: 1/span 1;
+}
+
+.featured {
+  grid-column: 1/span 1;
+}
+
+.nft {
+  grid-column: 2/span 1;
+  grid-row: 1/span 2;
+}
+
+section.hero {
+  padding-bottom: 50px;
+}
+section.hero h1 {
+  font-family: "Belgrano", serif;
+  font-size: 45px;
+  max-width: 95%;
+  line-height: 55px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  font-weight: 100;
+  background-image: url(/img/circle.svg);
+  background-repeat: no-repeat;
+  background-size: 170px;
+  background-position: 90px 40px;
+}
+section.hero p {
+  font-family: "Poppins", sans-serif;
+  color: #8E8E8E;
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+section.hero p::before {
+  content: "";
+  width: 45px;
+  height: 2px;
+  background-color: #FA504D;
+  position: absolute;
+  top: 302px;
+}
+section.hero a {
+  text-decoration: none;
+  padding: 15px;
+  font-size: 12px;
+  color: #2E2F38;
+}
+section.hero a:hover {
+  text-decoration: underline;
+}
+section.hero a img {
+  width: 20px;
+  position: relative;
+  top: 6px;
+}
+section.hero div.hero_button a.btn {
+  display: inline-block;
+  background-color: #FA504D;
+  color: #ffffff;
+  padding: 7px 25px;
+  font-size: 12px;
+  padding: 7px 50px;
+}
+section.hero div.hero_button a.btn:hover {
+  text-decoration: none;
+  background-color: #c4b6b6;
+  color: #FA504D;
+}
+
+section.featured h2 {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Belgrano", serif;
+  margin-bottom: 10px;
+}
+section.featured .features_img {
+  display: flex;
+  gap: 20px;
+}
+section.featured img {
+  width: 45%;
+  padding: 3px;
+  border: 1px solid #8E8E8E;
+}
+
+article.nft div.nft_img img {
+  max-width: 100%;
+  padding-left: 25px;
+  position: relative;
+}
+article.nft div.nft_data {
+  width: 410px;
+  background-color: #ffffff;
+  position: absolute;
+  right: 120px;
+  top: 430px;
+  padding: 15px;
+}
+article.nft img.line {
+  width: 380px;
+  padding-bottom: 5px;
+}
+
+div.nft_header {
+  display: flex;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid black;
+}
+div.nft_header img.perfil {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+div.nft_header div.nft_owner-data {
+  padding-top: 5px;
+}
+div.nft_header div.nft_owner-data p.nft_username {
+  color: #8E8E8E;
+  font-size: 9px;
+  font-family: "Poppins", sans-serif;
+}
+div.nft_header div.nft_owner-data p.nft_name {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+div.nft_header div.nft_price {
+  padding-top: 5px;
+  margin-left: auto;
+}
+div.nft_header div.nft_price p.nft_price-current {
+  color: #8E8E8E;
+  font-size: 9px;
+  font-family: "Poppins", sans-serif;
+}
+div.nft_header div.nft_price p.nft_price-number {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+div.nft_buttons a {
+  text-decoration: none;
+  color: #FA504D;
+  margin-left: 50px;
+  font-size: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+div.nft_buttons a.btn {
+  display: inline-block;
+  background-color: #FA504D;
+  color: #ffffff;
+  padding: 7px 25px;
+  font-size: 12px;
+  padding: 6px 50px;
+}
+div.nft_buttons a.btn:hover {
+  text-decoration: none;
+  background-color: #c4b6b6;
+  color: #FA504D;
+}
+
+div.nft_numbers {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 40px;
+}
+div.nft_numbers div {
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+div.nft_numbers div span {
+  color: #FA504D;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */

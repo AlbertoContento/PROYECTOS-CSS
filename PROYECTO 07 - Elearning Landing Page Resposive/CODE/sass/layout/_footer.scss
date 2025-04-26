@@ -1,0 +1,13 @@
+.footer {
+    &__img {
+        padding: 43px 16px;
+    }
+
+    &__list {
+        @include reset-list();
+    }
+
+    &__button--pink-blue {
+        @include button--pink-blue();
+    }
+}

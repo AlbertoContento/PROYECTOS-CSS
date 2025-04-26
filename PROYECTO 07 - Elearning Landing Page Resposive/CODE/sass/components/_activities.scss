@@ -1,0 +1,72 @@
+.activities {
+    padding-bottom: 40px;
+    background: linear-gradient(180deg, #FFF 0%, #F0F1FF 100%);
+
+    &__header {
+        background-image: $gradient-pink-orange;
+        color: $white;
+        border-radius: 10px;
+        padding: 35px 30px;
+        margin-bottom: 40px;
+
+        &-title {
+            max-width: 80%;
+        }
+    }
+
+    &__item {
+        padding: 1rem;
+        margin-bottom: 40px;
+        background-color: $white;
+        border-radius: 10px;
+        padding: 56px 28px 40px;
+        position: relative;
+
+        &:last-child{
+            margin-bottom: 0;
+            @include breakpoint(tablet) {
+                margin-bottom: 40px;
+            }
+        }
+
+        &-icon {
+            width: 56px;
+            height: 56px;
+            background-image: $gradient-pink-orange;
+            border-radius: 50%;//con esto lo que hacemos es que se quede redondo
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 24px;
+            position: absolute;
+            left: 25px;
+            top: -25px;
+        }
+
+        &-title {
+            font-size: 20px;
+            font-weight: 800;
+            color: $blue-dark;
+            padding-bottom: 16px;
+        }
+
+        &-description {
+            font-size: 16px;
+            color:$gray;
+            font-weight: 300;
+            margin-bottom: 24px;
+            line-height: 170%;
+        }
+    }
+    .container {
+        @include breakpoint(tablet) {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @include breakpoint(desktop) {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+}

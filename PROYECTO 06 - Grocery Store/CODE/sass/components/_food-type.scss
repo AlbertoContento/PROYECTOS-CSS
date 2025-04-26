@@ -1,0 +1,22 @@
+.food-type{
+    display: flex;
+    justify-content: space-between;
+    &__item{
+        img{
+            width: 70px;
+        }
+        h3{
+            font-size: 14px;
+            font-family: $primary-font;
+            font-weight: 600;
+            padding-bottom: 8px;
+        }
+        p{
+            color:$color-gray-1;
+            font-size: 14px;
+            font-family: $primary-font;
+            font-weight: 200;
+            line-height: 17px;
+        }
+    }
+}

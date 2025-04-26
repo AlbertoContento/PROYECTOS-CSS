@@ -1,0 +1,211 @@
+
+/*Importamos la letra Playfair display de google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Poppins:wght@100;400&display=swap');
+:root {
+    --color-marron: #9B9A78;
+    --color-black: #313131;
+    --color-gray: #909090;
+    --font-primary: 'Poppins', sans-serif;
+    --font-secundary: 'Playfair Display', serif;
+}
+
+body {
+    background-color: #FFFFFF;
+    background-image: url(../img/ellipse.svg);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 0% 22%;
+    margin:0px;
+    padding: 0;
+    font-family: var(--font-primary);
+}
+
+div.container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;/*estos padding son para que al disminuir la ventana no se nos pegue el contenido a la ventana*/
+    padding-right: 10px;
+    box-sizing: border-box;/*Ponemos esto para que los margenes y los bordes no sobrepasen nunca los 1100px del maxwidht*/
+}
+
+header.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+header.header img {
+    width: 200px;
+    height: 50px;
+}
+
+.header nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 35px;
+    font-family: var(--font-secundary);
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.header nav ul li a {
+    text-decoration: none;
+    color: var(--color-black);
+}
+.header nav ul li a:hover {
+    text-decoration-line: underline;
+}
+
+.header nav ul li:nth-of-type(1) a {
+    color: var(--color-marron);
+}
+
+.header aside ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 25px;
+}
+
+.header aside ul li a {
+    text-decoration: none;
+    color: var(--color-marron);
+    font-size: 12px;
+    font-size: 10px;
+}
+
+.header aside ul li a:hover {
+    color: var(--color-marron);
+    text-decoration-line: underline;
+}
+
+.header aside ul li a img {
+    width: 15px;
+    height: 15px;
+}
+
+.header aside ul li:first-of-type {
+    padding-right: 20px;
+}
+
+header aside li a.button {
+    background-color: var(--color-marron);
+    color: white;
+    padding: 8px 20px;
+    transition: all .5s ease;/*con esto le damos una transicion a nuesto boton para que la haga en medio segundo*/
+}
+
+a.button:hover {
+    background-color: gainsboro;
+    color: var(--color-marron);
+    text-decoration: none;
+}
+
+section.hero {
+    background-image: url(../img/hero.jpg);
+    background-position: top left;/*para que se coloque arriba a la derecha*/
+    background-repeat: no-repeat;/*para que no se repita*/
+    background-size: 55%;
+    height: 350px;
+    margin-bottom: 50px;
+}
+
+section.hero h1 {
+    font-family: var(--font-primary);
+    font-weight: bold;
+}
+
+div.hero_content {
+    display: flex;
+    flex-direction: column;
+}
+
+div.hero_header {
+    padding: 10px 20px;
+    width: 50%;
+    margin-left:auto;
+    background-color: rgba(255, 252, 252, 0.9);
+    position: relative;
+    top: 70px;
+}
+
+div.hero_header h1, p {
+    max-width: 58%;
+}
+
+div.hero_header h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: var(--font-secundary);
+    line-height: 40px;
+}
+/*para meter la barrita de color se haría asi pero aqui no funciona*/
+.hero_header h1::after {
+    content: '';
+    height: 1px;
+    width: 2px;
+    background-color: var(--color-marron);
+}
+
+div.hero_header p {
+    font-family: var(--font-primary);
+    font-size: 10px;
+    color: var(--color-gray);
+}
+
+div.hero_list ul{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 8px;
+    list-style: none;
+    width: 35%;
+    position: relative;
+    left: 650px;
+    top: 90px;
+}
+
+div.hero_list ul li{
+    font-size: 10px;
+    font-family: var(--font-primary);
+}
+div.hero_list img {
+    width: 12px;
+    height: 12px;
+    padding: 0px 5px;
+}
+
+section.categories {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding-bottom: 40px;
+    background-image: url(../img/ellipse.svg);
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+
+section.categories article img {
+    width: 50px;
+    height: 50px;
+}
+
+section.categories article h3{
+    margin: 0;
+    font-family: var(--font-primary);
+    font-size: 12px;
+}
+
+section.categories article p{
+    font-family: var(--font-primary);
+    font-size: 12px;
+    color: var(--color-gray);
+}
