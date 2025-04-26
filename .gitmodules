@@ -1,9 +1,0 @@
-[submodule "Header-Spa-Beauty-CSS"]
-	path = Header-Spa-Beauty-CSS
-	url = https://github.com/AlbertoContento/Header-Spa-Beauty-CSS.git
-[submodule "GathSession"]
-	path = GathSession
-	url = https://github.com/AlbertoContento/GathSession.git
-[submodule "Modern-Art-Gallery"]
-	path = Modern-Art-Gallery
-	url = https://github.com/AlbertoContento/Modern-Art-Gallery.git

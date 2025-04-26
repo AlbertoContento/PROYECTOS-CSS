@@ -1,0 +1,257 @@
+:root {
+  --primary-font: 'Merriweather', serif;
+  --secondary-font: 'Poppins', sans-serif;
+  --pink: #DB2A6B;
+  --white: #fff;
+  --black: #000;
+  --gray: #ABABAB;
+  --gray-medium : #555454;   
+  --gray-dark: #2B2D38;
+  --orange-light: #F4B840;
+  --orange-dark: #FF7E29;
+  --purple: #6E1FED;
+  --blue-light: #60D3D9;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: var(--secondary-font);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--white);
+  background-color: var(--gray-dark);
+}
+
+.container {
+  padding: 0px 50px;
+}
+
+.logo {
+  width: 10%;
+}
+
+nav.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul.nav {
+  display: flex;
+  margin-right: 12%;
+  list-style: none;
+  gap: 48px;
+  position: relative;
+}
+
+ul.nav li a {
+  text-decoration: none;
+  color: var(--gray);
+  font-size: 0.7rem;
+}
+
+ul.nav li a:hover {
+  color: var(--white);
+}
+
+.barra {
+  position: absolute;
+  top: 24px;
+  left: 40px;
+  width: 20px;
+  height: 2px;
+}
+
+div.hero {
+  display: flex;
+}
+
+
+.hero_title h1 {
+  margin: 0;
+  margin-top: 4%;
+  padding: 0;
+  font-family: var(--primary-font);
+  line-height: 1;
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--white);
+  max-width: 85%;
+}
+
+.hero_title p {
+  font-size: 1.5rem;
+  color: var(--gray);
+  max-width: 75%;
+}
+
+.hero_title a:first-of-type {
+  display: inline-block;
+  padding: 7px 40px;
+  background-color: var(--pink);
+  color: var(--white);
+  text-decoration: none;
+  font-size: 0.8rem;
+  border-radius: 8px 8px 8px 0px;
+}
+
+.hero_title a:first-of-type:hover {
+  background-color: var(--white);
+  color: #DB2A6B;
+}
+
+.hero_title a:last-of-type {
+  color: var(--white);
+  font-size: 0.8rem;
+  margin-left: 20px;
+  position: relative;
+}
+
+.hero_title a:last-of-type:hover {
+  color: var(--pink);
+}
+
+.hero_title a img {
+  width: 20px;
+  position: absolute;
+  top: -3px;
+  left: 70px;
+}
+
+
+div.hero_imagenes {
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 20px;
+}
+
+.img1 {
+  grid-column: 1;
+  grid-row: 1;
+  border-radius: 5em;
+  background-color: var(--purple);
+  max-width: 200px;
+}
+
+.img2 {
+  grid-column: 2;
+  grid-row: 1;
+  border-radius: 5em;
+  background-color: var(--blue-light);
+  max-width: 200px;
+}
+
+.img3 {
+  grid-column: 1;
+  grid-row: 2;
+  border-radius: 5em;
+  background-color: var(--pink);
+  max-width: 200px;
+}
+
+.img4 {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 5em;
+  background-color: var(--orange-dark);
+  max-width: 200px;
+  position: absolute;
+  bottom: -55px;
+  right: 270px;
+}
+
+.img5 {
+  grid-column: 3;
+  grid-row: 1;
+  border-radius: 5em;
+  background-color: var(--orange-light);
+  max-width: 200px;
+  position: relative;
+  top: 120px;
+}
+
+div.cards {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  position: absolute;
+  top: 97%
+}
+
+div.card-1 {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+div.card-2 {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+div.card-3 {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+div.card-1 img {
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  background-color: var(--gray-medium);
+  border-radius: 10px;
+  margin-right: 12px;
+}
+
+div.card-2 img {
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  background-color: var(--gray-medium);
+  border-radius: 10px;
+  margin-right: 12px;
+}
+
+div.card-3 img {
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  background-color: var(--gray-medium);
+  border-radius: 10px;
+  margin-right: 12px;
+}
+
+div.card-1 h3 span{
+  display: block;
+}
+
+div.card-2 h3 span{
+  display: block;
+}
+
+div.card-3 h3 span{
+  display: block;
+}
+
+div.hero_fondo img.fondo1 {
+  max-width: 100%;
+  max-height: 93%;
+  position: absolute;
+  top: 30%;
+  left: 52%;
+  z-index: -1;
+}
+
+div.hero_fondo img.fondo2 {
+  max-width: 45%;
+  max-height: 70%;
+  position: absolute;
+  top: 54%;
+  left: 64%;
+  z-index: -1;
+}

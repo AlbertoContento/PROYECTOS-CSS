@@ -1,0 +1,25 @@
+@use '../abstracts' as *;
+
+
+.footer {
+  background-color: $black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 50px 50px 50px;
+  h2 {
+    max-width: 70%;
+    color: $white;
+    margin-left: 150px;
+  }
+  p {
+    margin-left: 20%;
+    color: $white;
+    max-width: 50%;
+    font-size: x-large;
+
+  }
+  .social{
+    margin-right: 150px;
+  }
+}

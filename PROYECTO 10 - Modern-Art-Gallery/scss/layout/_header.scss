@@ -1,0 +1,45 @@
+@use '../abstracts' as *;
+
+section.header {
+  display: flex;
+  .header-left {
+    background-color: $black;
+    flex:0 0 38%;
+    color: $white;  
+  }
+  h1 {
+    max-width:50%;
+    font-family: $primary-font;
+    font-size: 6rem;
+    line-height: 0.8;
+    letter-spacing: -0.4rem;
+    position: absolute;
+    top: 28%;
+    left: 10%;
+  }
+  p {
+    max-width: 17%;
+    font-family: $secondary-font;
+    font-size: 1rem;
+    font-weight: 100;
+    color: $grey;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+  }
+  button {
+    @include button--black();
+    position: absolute;
+    top: 50%;
+    left: 70%
+  }
+  span {
+    @include button--flecha--orange();
+  }
+  .header-right {
+    flex: 1;
+    img {
+      display: block;
+    }
+  }
+}

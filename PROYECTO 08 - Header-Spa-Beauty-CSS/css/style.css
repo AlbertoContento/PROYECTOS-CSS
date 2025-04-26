@@ -1,0 +1,271 @@
+:root {
+  --primary-font: "Poppins", sans-serif;
+  --secondary-font: "Open Sans", sans-serif;
+  --blue: #264065;
+  --black: #070D15;
+  --green: #A9D6CB;
+  --white: #ffffff;
+  --white-translucent: rgba(255, 255, 255, 0.5);
+  --beige: #FAF8F5;
+  --grey: #909090;
+}
+
+body {
+  font-family: var(--primary-font);
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--blue);
+  background-color: var(--beige);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: var(--beige);
+  margin: 0 0 0 50px;
+}
+
+img.logo {
+  width: 100px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: var(--blue); 
+}
+
+header.header {
+  display: flex;
+  position: relative;
+}
+
+div.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  padding-right: 5%;
+  padding-top: 20px;
+}
+
+div.left {
+  width: 65%;
+  height: 500px;
+  background-color: var(--beige);
+  padding-bottom: 100px;
+}
+
+nav.navPrincipal ul {
+  display: flex;
+  list-style: none;
+  gap: 56px;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  margin-left: 250px;
+}
+
+nav.navPrincipal ul li a {
+  display: flex;
+  align-items: center; /* Alinea el texto y la imagen verticalmente */
+  gap: 8px; /* Espacio entre el texto y la imagen */
+}
+
+
+nav.navPrincipal ul li a img.flecha {
+  width: 20px; /* Ajusta el tamaño de la imagen si es necesario */
+  height: auto;
+}
+
+div.right {
+  background-color: var(--green);
+  width: 35%;
+  height: 500px;
+  padding-bottom: 100px;
+}
+
+aside.login {
+  padding-right: 60px;
+}
+
+.login ul{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.icon {
+  width: 25px;
+}
+
+.icon:hover {
+  color: var(--white);
+}
+
+.sign-up {
+  background-color: var(--blue);
+  color: var(--white);
+  font-size: small;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.sign-up:hover {
+  background-color: var(--green);
+}
+
+.sign-in:hover {
+  color: var(--white);
+}
+
+div.hero {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 10%;
+  left: 45px;
+  max-width: 70%;
+}
+
+div.hero-title {
+  padding-right: 400px;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  margin: 0;
+  margin-top: 60px;
+  line-height: 1;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  margin: 0;
+  margin-top: 20px;
+  color: var(--grey);
+}
+
+.hero_img img {
+  width: 68%;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+  pointer-events: none; /* Permite que los clics pasen a través */
+}
+
+.button1 {
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 15px 35px;
+  border-radius: 30px;
+  border: 0;
+  margin-right: 30px;
+}
+
+.button1:hover {
+  background-color: var(--green);
+}
+
+.buttons {
+  display: flex;
+  margin-top: 20px;
+  align-items: center; /* Centra verticalmente los elementos hijos */
+  gap: 10px;         /* Opcional: espacio entre botones */
+}
+
+.video {
+  display: inline-flex;          /* Alinea ícono y texto en fila */
+  align-items: center;           /* Centra verticalmente */
+  gap: 12px;                     /* Espacio entre el ícono y el texto */
+  background: transparent;       /* Fondo del botón, ajústalo si lo necesitas */
+  border: none;                  /* Sin borde por defecto */
+  padding: 8px 16px;             /* Espaciado interno */
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  color: #1F3247;               /* Color del texto */
+  transition: background 0.3s;    /* Transición para hover */
+}
+
+/* Estilo para el ícono */
+.video img {
+  width: 30px;                   /* Tamaño del círculo */
+  height: 30px;
+  background: #fff;              /* Fondo blanco para el círculo */
+  border-radius: 50%;            /* Forma circular */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra sutil */
+  padding: 8px;                  /* Opcional: espacio interno en el círculo */
+  object-fit: contain;           /* Asegura que el ícono se ajuste bien */
+}
+
+/* Efecto hover en el botón */
+.video:hover {
+  background: rgba(0, 0, 0, 0.05); /* Cambio de fondo al pasar el ratón */
+}
+
+.cards {
+  display: inline-flex;
+  gap: 30px;
+  background-color: var(--white);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.cards {
+  margin: 0;
+  text-align: center;
+  position: absolute;
+  top: 67%;
+}
+
+.cards img {
+  width: 56px;
+}
+
+.cards p {
+  max-width: 99%;
+  color: var(--grey);
+}
+
+.footer {
+  max-width: 100%;
+  background-color: var(--white);
+  color: var(--white);
+  padding: 80px 0;
+  text-align: center;
+}
+
+.coments {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.coment-1 {
+  max-width: 20%;
+  background-color: var(--white-translucent);
+  border-radius: 8px;
+  position: absolute;
+  top: -320px;
+  left: 76%;
+  font-size: small;
+  padding: 10px;
+}
+
+.coment-2 {
+  max-width: 20%;
+  background-color: var(--white-translucent);
+  border-radius: 8px;
+  position: absolute;
+  top: -110px;
+  left: 65%;
+  font-size: small;
+  padding: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
