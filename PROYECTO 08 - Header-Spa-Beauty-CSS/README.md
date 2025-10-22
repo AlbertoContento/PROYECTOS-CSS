@@ -41,4 +41,4 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE pa
 🎨 Capturas de Pantalla
 Aquí tienes una vista previa de cómo luce el proyecto:
 
-![Pantalla Principal](http://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS/media/Captura%20de%20pantalla.png)
+![Pantalla Principal](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS/media/Captura%20de%20pantalla%202025-10-22%20121807.png)
