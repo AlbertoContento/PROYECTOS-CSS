@@ -60,21 +60,14 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 
 Este repositorio tiene como objetivo proporcionar una variedad de ejemplos de diseño con CSS que abarcan desde elementos simples como **headers** hasta diseños más complejos. Cada proyecto está creado para mejorar la comprensión de las mejores prácticas de CSS y diseño web responsivo.
 
-## 💡 Ideas para futuros proyectos
-
-- Agregar más animaciones y efectos con CSS.
-- Crear versiones de los proyectos para **Dark Mode**.
-- Añadir compatibilidad con frameworks como **Bootstrap** y **Tailwind CSS**.
-- Incluir integración con **JavaScript** para interactividad avanzada.
 
 ## 🔗 Enlaces
 
 - [Mi GitHub](https://github.com/AlbertoContento)
-- [Mi portafolio](https://tu-portfolio.com)
 
 ## 📩 Contacto
 
 Si tienes preguntas o comentarios, no dudes en contactarme:
 
-- Correo: alberto@tucorreo.com
-- LinkedIn: [AlbertoContento](https://linkedin.com/in/albertocontento)
+- Correo: albertocontentoguerrero@hotmail.com
+- LinkedIn: [AlbertoContento](https://www.linkedin.com/in/alberto-contento-guerrero/)
