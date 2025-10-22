@@ -1,4 +1,4 @@
-# Proyectos CSS
+ # Proyectos CSS
 
 Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colección de mis proyectos de diseño y desarrollo frontend que he creado utilizando **HTML Y CSS**. Cada uno de estos proyectos ha sido desarrollado con el objetivo de mejorar mis habilidades en diseño web y programación frontend.
 
@@ -12,7 +12,7 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 ### 2. **[Creative Agency Header](https://github.com/AlbertoContento/Creative-Agency-Header)**
    Un **header** moderno y llamativo para una agencia creativa, con efectos de parallax y transiciones de color.
 
-   ![Creative Agency Header](https://img.icons8.com/ios/50/000000/creative-commons.png)
+   ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2003%20-%20Creative%20Agency/CODE/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
 
 ### 3. **[Coworking Space Header](https://github.com/AlbertoContento/Coworking-Space-Header)**
    Un diseño de **header** para una página web de espacio de coworking, con un diseño limpio y profesional, ideal para negocios de este tipo.
