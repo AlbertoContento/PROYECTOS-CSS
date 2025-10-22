@@ -4,48 +4,48 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 
 ## 📂 Proyectos incluidos:
 
-### 1. **[Header Bussines Agent](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2002%20-%20Header%20Business%20Agency)**
+### 1. **[Header Bussines Agent](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO02-Header-Business-Agency)**
    Un proyecto para un **header** atractivo para una página de belleza y spa. Incluye animaciones y transiciones suaves para una mejor experiencia visual.
 
    ![Header Bussines Agent](https://img.icons8.com/ios/50/000000/spa.png)
 
-### 2. **[Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2003%20-%20Creative%20Agency)**
+### 2. **[Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO03-Creative-Agency)**
    Un **header** moderno y llamativo para una agencia creativa, con efectos de parallax y transiciones de color.
 
-   ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2003%20-%20Creative%20Agency/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
+   ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO03-Creative-Agency/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
 
-### 3. **[Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2004-Coworking%20Space)**
+### 3. **[Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO04-Coworking-Space)**
    Un diseño de **header** para una página web de espacio de coworking, con un diseño limpio y profesional, ideal para negocios de este tipo.
 
-   ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2004-Coworking%20Space/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
+   ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO04-Coworking-Space/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
 
-### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2005-%20NFT%20Marketplace)**
+### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO05-NFT-Marketplace)**
    Un **header** corporativo para una agencia de negocios, con un diseño estructurado y elegante para empresas profesionales.
 
-   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
+   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO05-NFT-Marketplace/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
 
-### 5. **[Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)**
+### 5. **[Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO06-Grocery-Store)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
+   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO06-Grocery-Store/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
    
-### 6. **[Elearning Landing Page Responsive](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2007%20-%20Elearning%20Landing%20Page%20Resposive)**
+### 6. **[Elearning Landing Page Responsive](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO07-Elearning-Landing-Page-Resposive)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-### 7. **[Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS)**
+### 7. **[Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO08-Header-Spa-Beauty-CSS)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS/media/Captura%20de%20pantalla%202025-10-22%20121807.png)
+   ![Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO08-Header-Spa-Beauty-CSS/media/Captura%20de%20pantalla%202025-10-22%20121807.png)
 
-### 8. **[GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2009%20-%20GathSession)**
+### 8. **[GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO09-GathSession)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2009%20-%20GathSession/media/Captura%20de%20pantalla.png)
+   ![GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO09-GathSession/media/Captura%20de%20pantalla.png)
 
-### 9. **[Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2010%20-%20Modern-Art-Gallery)**
+### 9. **[Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO10-Modern-Art-Gallery)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2010%20-%20Modern-Art-Gallery/media/Captura%20de%20pantalla%202025-10-22%20121907.png)
+   ![Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO10-Modern-Art-Gallery/media/Captura%20de%20pantalla%202025-10-22%20121907.png)
 
 
 ## 🛠 Herramientas y tecnologías

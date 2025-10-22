@@ -41,4 +41,4 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE pa
 🎨 Capturas de Pantalla
 Aquí tienes una vista previa de cómo luce el proyecto:
 
-![Pantalla Principal](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2009%20-%20GathSession/media/Captura%20de%20pantalla.png)
+![Pantalla Principal](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO09-GathSession/media/Captura%20de%20pantalla.png)
