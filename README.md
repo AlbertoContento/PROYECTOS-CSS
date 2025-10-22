@@ -4,17 +4,17 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 
 ## 📂 Proyectos incluidos:
 
-### 1. **[Header Spa Beauty CSS](https://github.com/AlbertoContento/Header-Spa-Beauty-CSS)**
+### 1. **[Header Bussines Agent](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2002%20-%20Header%20Business%20Agency)**
    Un proyecto para un **header** atractivo para una página de belleza y spa. Incluye animaciones y transiciones suaves para una mejor experiencia visual.
 
-   ![Spa Beauty Header](https://img.icons8.com/ios/50/000000/spa.png)
+   ![Header Bussines Agent](https://img.icons8.com/ios/50/000000/spa.png)
 
-### 2. **[Creative Agency Header](https://github.com/AlbertoContento/Creative-Agency-Header)**
+### 2. **[Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2003%20-%20Creative%20Agency)**
    Un **header** moderno y llamativo para una agencia creativa, con efectos de parallax y transiciones de color.
 
    ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2003%20-%20Creative%20Agency/CODE/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
 
-### 3. **[Coworking Space Header](PROYECTO 04-Coworking Space)**
+### 3. **[Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2004-Coworking%20Space)**
    Un diseño de **header** para una página web de espacio de coworking, con un diseño limpio y profesional, ideal para negocios de este tipo.
 
    ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2004-Coworking%20Space/CODE/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
@@ -22,37 +22,31 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 ### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2005-%20NFT%20Marketplace/CODE)**
    Un **header** corporativo para una agencia de negocios, con un diseño estructurado y elegante para empresas profesionales.
 
-   ![NFT-Marketplace]([https://img.icons8.com/ios/50/000000/business.png](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/CODE/media/Captura%20de%20pantalla%202025-10-22%20121524.png))
+   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/CODE/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
 
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
+### 5. **[Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
+   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
    
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
+### 6. **[Elearning Landing Page Responsive](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2007%20-%20Elearning%20Landing%20Page%20Resposive)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
-
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
+### 7. **[Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
+   ![Header Spa Beauty](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2008%20-%20Header-Spa-Beauty-CSS/media/Captura%20de%20pantalla%202025-10-22%20121807.png)
 
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
+### 8. **[GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2009%20-%20GathSession)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
+   ![GathSession](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2009%20-%20GathSession/media/Captura%20de%20pantalla.png)
 
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
+### 9. **[Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2010%20-%20Modern-Art-Gallery)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
+   ![Modern Art Gallery Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2010%20-%20Modern-Art-Gallery/media/Captura%20de%20pantalla%202025-10-22%20121907.png)
 
-### 5. **[Modern Art Gallery Header](https://github.com/AlbertoContento/Modern-Art-Gallery-Header)**
-   Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
-
-   ![Modern Art Gallery Header](https://img.icons8.com/ios/50/000000/art-gallery.png)
 
 ## 🛠 Herramientas y tecnologías
 
