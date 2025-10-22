@@ -4,7 +4,7 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 
 ## 📂 Proyectos incluidos:
 
-### 1. **[Header Bussines Agent]([https://github.com/AlbertoContento/Header-Spa-Beauty-CSS](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2002%20-%20Header%20Business%20Agency))**
+### 1. **[Header Bussines Agent](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2002%20-%20Header%20Business%20Agency)**
    Un proyecto para un **header** atractivo para una página de belleza y spa. Incluye animaciones y transiciones suaves para una mejor experiencia visual.
 
    ![Header Bussines Agent](https://img.icons8.com/ios/50/000000/spa.png)
