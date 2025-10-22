@@ -22,12 +22,12 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 ### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2005-%20NFT%20Marketplace/CODE)**
    Un **header** corporativo para una agencia de negocios, con un diseño estructurado y elegante para empresas profesionales.
 
-   ![NFT-Marketplace]([https://img.icons8.com/ios/50/000000/business.png](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/CODE/media/Captura%20de%20pantalla%202025-10-22%20121524.png))
+   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/CODE/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
 
 ### 5. **[Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Grocery Space](https://img.icons8.com/ios/50/000000/art-gallery.png)
+   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
    
 ### 6. **[Elearning Landing Page Responsive](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2007%20-%20Elearning%20Landing%20Page%20Resposive)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
