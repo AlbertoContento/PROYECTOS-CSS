@@ -17,7 +17,7 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 ### 3. **[Coworking Space Header](https://github.com/AlbertoContento/Coworking-Space-Header)**
    Un diseño de **header** para una página web de espacio de coworking, con un diseño limpio y profesional, ideal para negocios de este tipo.
 
-   ![Coworking Space Header](PROYECTO 04-Coworking Space/CODE/media/Captura de pantalla 2025-10-22 121005.png)
+   ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2004-Coworking%20Space/CODE/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
 
 ### 4. **[Business Agency Header](https://github.com/AlbertoContento/Business-Agency-Header)**
    Un **header** corporativo para una agencia de negocios, con un diseño estructurado y elegante para empresas profesionales.
