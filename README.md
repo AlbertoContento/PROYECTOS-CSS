@@ -12,22 +12,22 @@ Bienvenido a mi repositorio de proyectos de CSS. Aquí encontrarás una colecci�
 ### 2. **[Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2003%20-%20Creative%20Agency)**
    Un **header** moderno y llamativo para una agencia creativa, con efectos de parallax y transiciones de color.
 
-   ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2003%20-%20Creative%20Agency/CODE/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
+   ![Creative Agency Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2003%20-%20Creative%20Agency/media/Captura%20de%20pantalla%202025-10-22%20120747.png)
 
 ### 3. **[Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2004-Coworking%20Space)**
    Un diseño de **header** para una página web de espacio de coworking, con un diseño limpio y profesional, ideal para negocios de este tipo.
 
-   ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2004-Coworking%20Space/CODE/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
+   ![Coworking Space Header](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2004-Coworking%20Space/media/Captura%20de%20pantalla%202025-10-22%20121005.png)
 
-### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2005-%20NFT%20Marketplace/CODE)**
+### 4. **[NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2005-%20NFT%20Marketplace)**
    Un **header** corporativo para una agencia de negocios, con un diseño estructurado y elegante para empresas profesionales.
 
-   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/CODE/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
+   ![NFT-Marketplace](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2005-%20NFT%20Marketplace/media/Captura%20de%20pantalla%202025-10-22%20121524.png)
 
 ### 5. **[Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
 
-   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/CODE/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
+   ![Grocery Space](https://github.com/AlbertoContento/PROYECTOS-CSS/blob/main/PROYECTO%2006%20-%20Grocery%20Store/media/Captura%20de%20pantalla%202025-10-22%20121621.png)
    
 ### 6. **[Elearning Landing Page Responsive](https://github.com/AlbertoContento/PROYECTOS-CSS/tree/main/PROYECTO%2007%20-%20Elearning%20Landing%20Page%20Resposive)**
    Un diseño de **header** moderno para una galería de arte, con un enfoque en la creatividad y el diseño visual atractivo.
